@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911693124989",
+    "project_id": "flash-chat-yalda",
+    "storage_bucket": "flash-chat-yalda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911693124989:android:cb14ab1d3871fab77d2814",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_starting_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxSk8rVhQHqZjYlfIgKF4TnOb3jTNnBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,11 +2,13 @@ import 'package:flutter/material.dart';
 
 const kWhiteColor = Colors.white;
 const kChatEmailColor = Colors.white54;
-const kSenderBoxColor = Colors.white12;
+const kSenderBoxColor = Color(0xFF424242); // visible grey for others' bubbles
 const kLoginButtonColor = Colors.blue;
 const kSendButtonColor = Colors.blue;
 var kRegisterButtonColor = Colors.yellow.shade900;
-const kBackgroundColor = Colors.white12;
+const kBackgroundColor = Color(0xFF1A1A1A);
+
+const double bubbleRadius = 30.0;
 
 const kSendButtonTextStyle = TextStyle(
   color: Colors.lightBlueAccent,
