@@ -13,4 +13,3 @@ It uses **Firebase Authentication** for login/registration and **Cloud Firestore
 1. Clone the repository:
    ```bash
    git clone https://github.com/Yalda-Ashrafi/flash-chat.git
-
